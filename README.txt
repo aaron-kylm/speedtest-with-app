@@ -5,7 +5,7 @@ Requirements:
 
  	For example:  "~/Downloads"
 
-How To Use this version:
+How To Use this Version:
 - Double click on the .app file
   --  Please follow any on screen instructions in popup windows
   --  App will run the tests and display a popup window when complete with the results path and file name
