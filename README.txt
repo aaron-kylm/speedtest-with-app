@@ -3,7 +3,7 @@
 Requirements:
  - Speedtest app this is downloaed as part of the package ( speedtest/speedtest ).  Please make sure the folder and app are in the current users Downloads folder.  
 
- 	For example:  "~/Downloads"
+ 	For example:  "  ~/Downloads  "
 
 How To Use this Version:
 - Double click on the .app file
